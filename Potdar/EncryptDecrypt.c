@@ -184,5 +184,5 @@ puts(data);
 fputs(data, fp1); 
 }
 fclose(fp);
-fclose(fp1);
+fclose(fp1); 
 }
